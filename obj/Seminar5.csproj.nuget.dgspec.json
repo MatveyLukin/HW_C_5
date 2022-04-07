@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\УчёбаGB\\С# Seminars\\C# Seminars\\Seminar5\\Seminar5.csproj": {}
+    "C:\\Users\\UZAO\\Desktop\\GB\\Seminar5\\HW_C_5\\Seminar5.csproj": {}
   },
   "projects": {
-    "D:\\УчёбаGB\\С# Seminars\\C# Seminars\\Seminar5\\Seminar5.csproj": {
+    "C:\\Users\\UZAO\\Desktop\\GB\\Seminar5\\HW_C_5\\Seminar5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\УчёбаGB\\С# Seminars\\C# Seminars\\Seminar5\\Seminar5.csproj",
+        "projectUniqueName": "C:\\Users\\UZAO\\Desktop\\GB\\Seminar5\\HW_C_5\\Seminar5.csproj",
         "projectName": "Seminar5",
-        "projectPath": "D:\\УчёбаGB\\С# Seminars\\C# Seminars\\Seminar5\\Seminar5.csproj",
-        "packagesPath": "C:\\Users\\НПГ\\.nuget\\packages\\",
-        "outputPath": "D:\\УчёбаGB\\С# Seminars\\C# Seminars\\Seminar5\\obj\\",
+        "projectPath": "C:\\Users\\UZAO\\Desktop\\GB\\Seminar5\\HW_C_5\\Seminar5.csproj",
+        "packagesPath": "C:\\Users\\UZAO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UZAO\\Desktop\\GB\\Seminar5\\HW_C_5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\НПГ\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\UZAO\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
