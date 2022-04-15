@@ -125,7 +125,7 @@ for (int i = 0; i < ((num / 2) + dlina); i++)
 // {
 //     array[i] = new Random().Next(10, 99);
 //     Console.Write(array[i] + " ");
-//     if (array[i] % 2 == 1) NechetSum = NechetSum + i;
+//     if (i % 2 == 1) NechetSum = NechetSum + array[i];
 
 // }
 // Console.WriteLine();
